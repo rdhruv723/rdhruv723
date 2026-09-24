@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 💫 About Me:
 
 **🔭 Currently working on**  
@@ -12,13 +10,13 @@ System Design · Microservices Architecture · Scalability · Backend Engineerin
 Data Structures & Algorithms · Distributed Systems · System Design · Database Architecture
 
 **🌱 Currently learning**  
-Advanced cloud infrastructure, event-driven patterns with Kafka, and container orchestration at scale.
+Backend Engineering, event-driven patterns with Kafka, and container orchestration at scale.
 
 **💬 Ask me about**  
-Java, Spring Boot, React.js, high-throughput microservices, and database tuning.
+Java, Spring Boot, React.js, Node.js, Kafka, REST APIs, high-throughput microservices, and database tuning.
 
 **⚡ Principle I work by**  
-Own the problem end-to-end — design, trade-offs, execution, and outcome.
+Own the problem end-to-end -> design, trade-offs, execution, and outcome.
 
 ---
 
